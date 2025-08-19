@@ -640,7 +640,7 @@
     "papermill": {
      "duration": 0.214293,
      "end_time": "2025-08-12T17:41:39.005549",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:41:38.791256",
      "status": "completed"
     },
@@ -698,7 +698,7 @@
     "papermill": {
      "duration": 2.345832,
      "end_time": "2025-08-12T17:41:41.356454",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:41:39.010622",
      "status": "completed"
     },
@@ -863,7 +863,7 @@
     "papermill": {
      "duration": 0.027718,
      "end_time": "2025-08-12T17:41:41.444588",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:41:41.416870",
      "status": "completed"
     },
@@ -938,7 +938,7 @@
     "papermill": {
      "duration": 19.800852,
      "end_time": "2025-08-12T17:42:01.307221",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:41:41.506369",
      "status": "completed"
     },
@@ -1103,7 +1103,7 @@
     "papermill": {
      "duration": 0.035304,
      "end_time": "2025-08-12T17:42:01.372608",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:42:01.337304",
      "status": "completed"
     },
@@ -1229,7 +1229,7 @@
     "papermill": {
      "duration": 0.890158,
      "end_time": "2025-08-12T17:50:43.237275",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:50:42.347117",
      "status": "completed"
     },
@@ -1434,7 +1434,7 @@
     "papermill": {
      "duration": 0.574262,
      "end_time": "2025-08-12T17:50:50.215590",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:50:49.641328",
      "status": "completed"
     },
@@ -1496,7 +1496,7 @@
     "papermill": {
      "duration": 10.289511,
      "end_time": "2025-08-12T17:51:00.548375",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:50:50.258864",
      "status": "completed"
     },
@@ -1584,8 +1584,8 @@
     }
    ],
    "dockerImageVersionId": 31089,
-   "isGpuEnabled": false,
-   "isInternetEnabled": true,
+   "isGpuEnabled": False,
+   "isInternetEnabled": True,
    "language": "python",
    "sourceType": "notebook"
   },

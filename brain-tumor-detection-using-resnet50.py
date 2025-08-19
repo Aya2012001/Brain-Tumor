@@ -889,7 +889,7 @@
     "papermill": {
      "duration": 0.041117,
      "end_time": "2025-08-12T17:41:41.496047",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:41:41.454930",
      "status": "completed"
     },
@@ -1131,7 +1131,7 @@
     "papermill": {
      "duration": 520.905178,
      "end_time": "2025-08-12T17:50:42.306294",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:42:01.401116",
      "status": "completed"
     },
@@ -1400,7 +1400,7 @@
     "papermill": {
      "duration": 4.647853,
      "end_time": "2025-08-12T17:50:49.600302",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-08-12T17:50:44.952449",
      "status": "completed"
     },
